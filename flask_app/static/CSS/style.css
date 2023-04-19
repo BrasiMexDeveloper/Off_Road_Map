@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+.logo img{
+    width: 200px;
+    height:150;
+    border-radius: 50%;
+    padding: 20px;
+}
+#img img{
+    width: 500px;
+    height: 450px;
+    border-radius: 1%;
+    
+}
+p{
+    text-align: center;
+    padding: 20px;
+    font-size: 10px;
+    color: white;
+    
+}
+#home{
+    font-size: 2em;
+    color: peru;
+}
+.master{
+    background-size: cover;
+    min-height: 110vh;
+}

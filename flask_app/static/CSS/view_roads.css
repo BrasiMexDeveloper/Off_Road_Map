@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.master{
+    background-size: cover;
+    min-height: 100vh;
+}
+img{
+    border-radius: 50%;
+    width: 10%;
+    height: 10%;
+    float: right;
+}
+tbody{
+    color: rgb(40, 239, 9);
+}
+
+h5{
+    color: rgb(246, 10, 10);
+}

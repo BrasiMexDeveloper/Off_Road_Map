@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+.master4{
+    background-size: cover;
+    min-height: 100vh;
+}
+h1{
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+}
+.logo3{
+    width: 250px;
+    height:180;
+    border-radius: 50%;
+    padding: 40px;
+}
+img{
+    width: 900px;
+    height: 280px;
+    
+}

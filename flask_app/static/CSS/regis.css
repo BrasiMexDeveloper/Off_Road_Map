@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+.master4{
+    background-size: cover;
+    min-height: 110vh;
+}
